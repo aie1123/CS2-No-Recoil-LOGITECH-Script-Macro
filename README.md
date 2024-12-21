@@ -8,7 +8,7 @@
   ## A: 
   * ① First you need a programmable Logitech mouse  
   * ② Make sure GHUB is running as an administrator  
-  * ③ Download and import the script in GHUB
+  * ③ Download this script and import into GHUB
   * ④ Bind the weapon to be used to the side button (modify it in the script)  
   * ⑤ Enter the game and enjoy  
 ## Q: What is the difference between rebound and norebound?  
