@@ -4,7 +4,7 @@
   Use at your own risk !!!
   Use at your own risk !!!
 # QA
-  How does this work?
+  Q:How does this work?
   A:① First you need a programmable Logitech mouse
     ② Make sure GHUB is running as an administrator
     ③ Download and import the script in GHUB
