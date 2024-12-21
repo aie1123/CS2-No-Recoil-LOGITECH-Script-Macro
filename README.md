@@ -16,8 +16,7 @@ Example:` data = dofile[[D:\yourmacrolocation.lua]]`
   * ② Make sure GHUB is running as an administrator  
   * ③ Download this script and import into GHUB
   * ④ Bind the weapon to be used to the side button (modify it in the script)  
-  * ⑤ Enter the game and enjoy(When this macro is working, the Scroll lock light (if your keyboard has one) will light up, and it will go out when the macro turned off.)
-`important：`
+  * ⑤ Enter the game and enjoy(When this macro is working, the Scroll lock light (if your keyboard has one) will light up, and it will go out when the macro turned off.)  
 ## Q: What is the difference between rebound and norebound?  
 ## A:  
 The rebound version will automatically rebound to the initial position after the macro finished or release of the left mouse button, while the norebound version will not.  
