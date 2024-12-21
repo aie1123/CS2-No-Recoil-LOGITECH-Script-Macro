@@ -1,4 +1,4 @@
-# CS2-CSGO-No-Recoil-LOGITECH-Script-Macro
+# CS2-No-Recoil-LOGITECH-Script-Macro
   ## Updated 22-12-24, now you can Set Ingame mouse sensitivity between 2.4 to 2.6(recommend2.53).  
   `Use at your own risk !!!`  
   `Use at your own risk !!!`  
