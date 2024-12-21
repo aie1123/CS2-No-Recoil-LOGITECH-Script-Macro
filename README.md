@@ -3,7 +3,7 @@
   `Use at your own risk !!!`  
   `Use at your own risk !!!`  
   `Use at your own risk !!!`
-# Considering that some people have reported VAC bans, it is recommended to use a new method to read macros:  
+# Considering that some people have reported VAC bans(I only recommend using this macro when playing on the CS2 official server, Do not use this macro on other third-party platform servers.), it is recommended to use a new method to read macros:  
 * ① Download and place the macro file in a location other than the C drive  
 * ② Create a new script in GHUB  
 * ③ Edit the script code to:  
