@@ -13,7 +13,7 @@
   * ⑤ Enter the game and enjoy  
 ## Q: What is the difference between rebound and norebound?  
 ## A:  
-The rebound version will automatically rebound to the initial position after the gun is pressed, while the norebound version will not.  
+The rebound version will automatically rebound to the initial position after the macro finished or release of the left mouse button, while the norebound version will not.  
 ## Q: Explain what "one click", "Double-click" and "Ctrl + mouse side button" mean.  
 ## A:  
 "One-click" means clicking the corresponding mouse side button once to enable the corresponding firearm, "Double-click" means double-clicking the corresponding mouse side button to enable the corresponding firearm, and "Ctrl + mouse side button" means pressing the "Ctrl" key on the keyboard and clicking the corresponding mouse side button once to enable the corresponding firearm.
