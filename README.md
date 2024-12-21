@@ -7,7 +7,8 @@
 * ① Download and place the macro file in a location other than the C drive  
 * ② Create a new script in GHUB  
 * ③ Edit the script code to:  
-Example:` data = dofile[[D:\yourmacrolocation.lua]]`  
+Example:` data = dofile[[D:\yourmacrolocation.lua]]`
+* ④ Save and run  
 # Q&A
   ## Q:How does this work?  
   ## A: 
