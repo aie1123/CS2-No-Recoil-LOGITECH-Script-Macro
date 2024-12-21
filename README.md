@@ -3,6 +3,11 @@
   `Use at your own risk !!!`  
   `Use at your own risk !!!`  
   `Use at your own risk !!!`
+# Considering that some people have reported VAC bans, it is recommended to use a new method to read macros:  
+* ① Download and place the macro file in a location other than the C drive  
+* ② Create a new script in GHUB  
+* ③ Edit the script code to:  
+Example:` data = dofile[[D:\yourmacrolocation.lua]]`  
 # Q&A
   ## Q:How does this work?  
   ## A: 
@@ -10,7 +15,8 @@
   * ② Make sure GHUB is running as an administrator  
   * ③ Download this script and import into GHUB
   * ④ Bind the weapon to be used to the side button (modify it in the script)  
-  * ⑤ Enter the game and enjoy  
+  * ⑤ Enter the game and enjoy(When this macro is working, the Scroll lock light (if your keyboard has one) will light up, and it will go out when the macro turned off.)
+`important：`
 ## Q: What is the difference between rebound and norebound?  
 ## A:  
 The rebound version will automatically rebound to the initial position after the macro finished or release of the left mouse button, while the norebound version will not.  
