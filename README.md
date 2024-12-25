@@ -17,9 +17,9 @@ Example:` data = dofile[[D:\yourmacrolocation.lua]]`
   * ③ Download this script and import into GHUB
   * ④ Bind the weapon to be used to the side button (modify it in the script)  
   * ⑤ Enter the game and enjoy(When this macro is working, the Scroll lock light (if your keyboard has one) will light up, and it will go out when the macro turned off.)  
-## Q: What is the difference between rebound and norebound?  
+## Q: What is the difference between rebound and no-rebound?  
 ## A:  
-The rebound version will automatically rebound to the initial position after the macro finished or release of the left mouse button, while the norebound version will not.  
+The rebound version will automatically rebound to the initial position after the macro finished or release of the left mouse button, while the no-rebound version will not.  
 ## Q: Explain what "one click", "Double-click" and "Ctrl + mouse side button" mean.  
 ## A:  
 "One-click" means clicking the corresponding mouse side button once to enable the corresponding firearm, "Double-click" means double-clicking the corresponding mouse side button to enable the corresponding firearm, and "Ctrl + mouse side button" means pressing the "Ctrl" key on the keyboard and clicking the corresponding mouse side button once to enable the corresponding firearm.
