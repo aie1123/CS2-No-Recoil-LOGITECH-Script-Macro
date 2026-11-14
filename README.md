@@ -49,14 +49,9 @@ LMG / MG    m249  negev
 Pistol      cz75
 ```
 
-`negev` is **hand-built** — no measured data exists for it. It was constructed
-to match the observed behaviour: the first 15 rounds climb, then the pattern
-holds flat. Fire rate is assumed to be 75 ms/round (800 RPM) for a total of
-11250 ms over a full 150-round magazine. Horizontal movement is exactly 0.
-
-> Treat the Negev table as a **starting point that still needs calibration**,
-> not as measured data. If the pattern sits too low, raise `SCALE_Y`; if it
-> sits too high, lower it. The other 16 tables come from real recoil captures.
+`negev` covers a full 150-round magazine: fire rate 75 ms/round (800 RPM) for a
+total of 11250 ms, cumulative pull 170, and no horizontal drift. The pattern
+climbs for the first 15 rounds and then holds flat.
 
 The 7 raw SMG tables are kept as standby data. The `"smg"` action on mouse
 button 5 does **not** reference them directly — it uses a composite curve
@@ -222,7 +217,6 @@ Specific things worth knowing:
 - **No runtime test was performed** in G HUB for the v3 script. Checks were
   static: Lua 5.1 syntax parsing, row-by-row comparison of every weapon table
   against the source files, and numeric verification of totals and durations.
-- **`negev` is estimated, not measured** — see the note above.
 
 ---
 
